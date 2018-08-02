@@ -1,1 +1,1 @@
-https://deng-x.github.io/rc/index.html
+https://deng-x.github.io/rc/dist/index.html
